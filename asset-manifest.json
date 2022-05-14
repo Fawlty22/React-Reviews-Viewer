@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/React-Review-Viewer/static/css/main.3d9f8e8d.chunk.css",
-    "main.js": "/React-Review-Viewer/static/js/main.546b724a.chunk.js",
-    "main.js.map": "/React-Review-Viewer/static/js/main.546b724a.chunk.js.map",
-    "runtime-main.js": "/React-Review-Viewer/static/js/runtime-main.d35df799.js",
-    "runtime-main.js.map": "/React-Review-Viewer/static/js/runtime-main.d35df799.js.map",
-    "static/js/2.bdbc782b.chunk.js": "/React-Review-Viewer/static/js/2.bdbc782b.chunk.js",
-    "static/js/2.bdbc782b.chunk.js.map": "/React-Review-Viewer/static/js/2.bdbc782b.chunk.js.map",
-    "index.html": "/React-Review-Viewer/index.html",
-    "precache-manifest.21ac6507da45b351295cea8d89cc2f91.js": "/React-Review-Viewer/precache-manifest.21ac6507da45b351295cea8d89cc2f91.js",
-    "service-worker.js": "/React-Review-Viewer/service-worker.js",
-    "static/css/main.3d9f8e8d.chunk.css.map": "/React-Review-Viewer/static/css/main.3d9f8e8d.chunk.css.map",
-    "static/js/2.bdbc782b.chunk.js.LICENSE.txt": "/React-Review-Viewer/static/js/2.bdbc782b.chunk.js.LICENSE.txt"
+    "main.css": "/React-Reviews-Viewer/static/css/main.3d9f8e8d.chunk.css",
+    "main.js": "/React-Reviews-Viewer/static/js/main.546b724a.chunk.js",
+    "main.js.map": "/React-Reviews-Viewer/static/js/main.546b724a.chunk.js.map",
+    "runtime-main.js": "/React-Reviews-Viewer/static/js/runtime-main.1c234279.js",
+    "runtime-main.js.map": "/React-Reviews-Viewer/static/js/runtime-main.1c234279.js.map",
+    "static/js/2.bdbc782b.chunk.js": "/React-Reviews-Viewer/static/js/2.bdbc782b.chunk.js",
+    "static/js/2.bdbc782b.chunk.js.map": "/React-Reviews-Viewer/static/js/2.bdbc782b.chunk.js.map",
+    "index.html": "/React-Reviews-Viewer/index.html",
+    "precache-manifest.b366be679445da9a72db3cb1fa3f2d84.js": "/React-Reviews-Viewer/precache-manifest.b366be679445da9a72db3cb1fa3f2d84.js",
+    "service-worker.js": "/React-Reviews-Viewer/service-worker.js",
+    "static/css/main.3d9f8e8d.chunk.css.map": "/React-Reviews-Viewer/static/css/main.3d9f8e8d.chunk.css.map",
+    "static/js/2.bdbc782b.chunk.js.LICENSE.txt": "/React-Reviews-Viewer/static/js/2.bdbc782b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d35df799.js",
+    "static/js/runtime-main.1c234279.js",
     "static/js/2.bdbc782b.chunk.js",
     "static/css/main.3d9f8e8d.chunk.css",
     "static/js/main.546b724a.chunk.js"
